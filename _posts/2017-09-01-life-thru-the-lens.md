@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Using Molly to create a gallery of your photos for your grid site, can be very
   straightforward.. simply by uploading images..
-dateModified: '2017-09-01T16:28:16.383Z'
-datePublished: '2017-09-01T16:28:17.009Z'
+dateModified: '2017-09-01T16:28:23.304Z'
+datePublished: '2017-09-01T16:28:23.672Z'
 title: life thru the lens..
 author: []
 publisher: {}

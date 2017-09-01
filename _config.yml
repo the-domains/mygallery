@@ -44,7 +44,7 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-title: my gallery
+title: the gallery
 description: a fake portfolio of work..
 github: true
 favicon: >-

@@ -4,9 +4,16 @@
         <description><![CDATA[the gallery]]></description>
         <link>http://gallery.abc-xyz.us/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Sep 2017 16:28:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2017 16:28:28 GMT</lastBuildDate>
         <atom:link href="http://gallery.abc-xyz.us/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 01 Sep 2017 16:27:55 GMT</pubDate>
+        <pubDate>Fri, 01 Sep 2017 16:28:23 GMT</pubDate>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>do you like the 2nd gallery ?</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkcFugzAQRO98hUXVBKRghyihTYEcIlVVLzn1VlWVYy9gAjayTVpU9d9rEiL15t15mt0dZ1yckeC5XxwjrZT1dxlxrZ2XGaZFZ3dB0UtmhZIBXyCzcGyIfjyEzlSj2tVFbVCOOC7BPjfQgrRmP7zR8kBbCEz4vvxIHS0KFPxn9sMrD5xViDTYXsuRmYyYBmph4pxD6gQsuNMEv2LYaOZKnxCmpARmcUEZHJU6YQmWgPx82RPDT7g2d9_FsW3yeHYGbdwR-XmFtzPada883y5XSbxZr5NN8pgksT-au2twR7WbfFAcsJAGtN1DoTQE07Vh6v0GXLF-3G-B5tec5u512yKqjZs-D8M0I1OKXjbmzBpqzCVqptpLVD7i1NKo0lDkfmVtZ54IsRWUWnBMBWmHkjYN6IFwFQ2qjxpxgsgB0UryaNImE9m3nTLWDXiYOl-C2yr34-Xy_vavf_byos8" height="400"></iframe>]]></description>
+            <link>https://the-grid.github.io/ed-userhtml/?g=eJwtzDkKwCAQAMCviL2xDAT1Lxtv8MLdBPx9LNIPo1x-mS2AqHm4he21-kbImQMCkaYPmieigZeUlHyc2R2QZV0RSvFz_bA9dXSknZzcKLlT8wGuih-g</link>
+            <guid isPermaLink="false">4e21d291-f4a1-4281-85a8-603b55fe5105</guid>
+            <pubDate>Tue, 18 Jul 2017 10:03:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[life thru the lens..]]></title>
             <description><![CDATA[<h1>life thru the lens..</h1>,<p>Using Molly to create a gallery of your photos for your grid site, can be very straightforward.. simply by uploading images..</p>,<p>Below there are 2 simple examples, in each post - theres only 2 posts - we uploaded 9+ images, one after the other. All were landscape images, with an added description..</p>,<p>In the first gallery, Molly has arranged the images into a carousel with an information button to the right..</p>,<p>In the second gallery, Molly has resized and cropped the images and presented them in a more ‘grid’ like fashion.. hover over the images and you’ll see the description of the image.. if you redesign the page Molly will come up with further gallery designs.. When v3 comes, and we can lockdown the sections, you’ll find it easy to cycle through the various options..</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/65029b3a-00f3-47da-a5a4-0d3c73b7be5c.jpg">]]></description>
@@ -34,13 +41,6 @@
             <link>http://gallery.abc-xyz.us/gallery-2/index.html</link>
             <guid isPermaLink="false">6527d5ba-d17a-42ab-9041-8b6335f5ac48</guid>
             <pubDate>Tue, 18 Jul 2017 10:02:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>do you like the 2nd gallery ?</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkcFugzAQRO98hUXVBKRghyihTYEcIlVVLzn1VlWVYy9gAjayTVpU9d9rEiL15vU8ze7OZlyckeC5XxwjrZT1dxlxXzsvM0yLzu6CopfMCiUDvkBm4dgQ_XgInalGtauL2qAccVyCfW6gBWnNfnij5YG2EJjwffmROloUKPjP7IdXHjirEGmwvZYjMxkxDdTCxDmH1AlYcKcJfsWw0cyVPiFMSQnM4oIyOCp1whIsAfn5sieGn3Bt7r6LY9vk8ewM2rgl8vMKb2e06155vl2uknizXieb5DFJYn80d9vgjmrX-aA4YCENaLuHQmkIpm3D1PsNuGL9ON8Cza85zd3rNkVUG9d9HoZpRqYUvWzMmTXUmEvUTLWXqHzEqaVRpaHI_crazjwRYisoteCYCtIOJW0a0APhKhpUHzXiBJEDopXk0aRNJrJvO2Wsa_Dgoy_BbZX78XJ5fzvpH8WaoQg" height="400"></iframe>]]></description>
-            <link>https://the-grid.github.io/ed-userhtml/?g=eJwtzDkKwCAQAMCviL2xDAT1Lxtv8MLdBPx9LNIPo1x-mS2AqHm4he21-kbImQMCkaYPmieigZeUlHyc2R2QZV0RSvFz_bA9dXSknZzcKLlT8wGuih-g</link>
-            <guid isPermaLink="false">4e21d291-f4a1-4281-85a8-603b55fe5105</guid>
-            <pubDate>Tue, 18 Jul 2017 10:03:52 GMT</pubDate>
         </item>
     </channel>
 </rss>

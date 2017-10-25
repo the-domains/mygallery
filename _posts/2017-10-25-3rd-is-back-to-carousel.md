@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 3rd is back to carousel..
-dateModified: '2017-10-25T08:47:11.502Z'
-datePublished: '2017-10-25T08:47:11.683Z'
+dateModified: '2017-10-25T10:26:21.952Z'
+datePublished: '2017-10-25T10:26:22.653Z'
 title: ''
 author: []
 publisher: {}

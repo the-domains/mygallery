@@ -4,9 +4,9 @@
         <description><![CDATA[the gallery]]></description>
         <link>http://gallery.abc-xyz.us/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Sep 2017 16:28:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2017 08:43:54 GMT</lastBuildDate>
         <atom:link href="http://gallery.abc-xyz.us/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 01 Sep 2017 16:28:29 GMT</pubDate>
+        <pubDate>Wed, 25 Oct 2017 08:43:52 GMT</pubDate>
         <item>
             <title><![CDATA[life thru the lens..]]></title>
             <description><![CDATA[<h1>life thru the lens..</h1>,<p>Using Molly to create a gallery of your photos for your grid site, can be very straightforward.. simply by uploading images..</p>,<p>Below there are 2 simple examples, in each post - theres only 2 posts - we uploaded 9+ images, one after the other. All were landscape images, with an added description..</p>,<p>In the first gallery, Molly has arranged the images into a carousel with an information button to the right..</p>,<p>In the second gallery, Molly has resized and cropped the images and presented them in a more ‘grid’ like fashion.. hover over the images and you’ll see the description of the image.. if you redesign the page Molly will come up with further gallery designs.. When v3 comes, and we can lockdown the sections, you’ll find it easy to cycle through the various options..</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/65029b3a-00f3-47da-a5a4-0d3c73b7be5c.jpg">]]></description>
@@ -41,6 +41,13 @@
             <link>https://the-grid.github.io/ed-userhtml/?g=eJwtzDkKwCAQAMCviL2xDAT1Lxtv8MLdBPx9LNIPo1x-mS2AqHm4he21-kbImQMCkaYPmieigZeUlHyc2R2QZV0RSvFz_bA9dXSknZzcKLlT8wGuih-g</link>
             <guid isPermaLink="false">4e21d291-f4a1-4281-85a8-603b55fe5105</guid>
             <pubDate>Tue, 18 Jul 2017 10:03:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/be3be076-9955-4c2a-b5dd-75ffc57f4afa.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/366b9ae5-2312-469f-b482-8d8bc77a1001.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc21a28c-02de-4e8e-853b-4d43359d9542.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/57405825-030c-4625-b64a-52244bf34a79.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/87caad6b-d96b-43e4-ace5-1d52f5380a86.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f61106ff-26b4-42ae-bf37-c00824cb3ad9.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/81af9fa6-e0d1-49ca-b54e-222c8721049e.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/056355a1-3bd5-4124-be0f-0baae70726db.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d31f2d4-0d96-4708-a78b-440e3a0b82a1.jpg">]]></description>
+            <link>http://gallery.abc-xyz.us/56c7846a-8194-4e7b-9404-cc25c64e0abd/index.html</link>
+            <guid isPermaLink="false">56c7846a-8194-4e7b-9404-cc25c64e0abd</guid>
+            <pubDate>Wed, 25 Oct 2017 08:43:41 GMT</pubDate>
         </item>
     </channel>
 </rss>

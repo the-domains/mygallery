@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   carousel again.. maybe because all the images are the same aspect..  lets
   throw in some tall ones…
-dateModified: '2017-10-25T10:19:18.234Z'
-datePublished: '2017-10-25T10:19:18.418Z'
+dateModified: '2017-10-25T10:26:15.823Z'
+datePublished: '2017-10-25T10:26:16.179Z'
 title: ''
 author: []
 publisher: {}

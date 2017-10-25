@@ -4,9 +4,9 @@
         <description><![CDATA[the gallery]]></description>
         <link>http://gallery.abc-xyz.us/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Oct 2017 10:23:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2017 10:24:18 GMT</lastBuildDate>
         <atom:link href="http://gallery.abc-xyz.us/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Oct 2017 10:23:48 GMT</pubDate>
+        <pubDate>Wed, 25 Oct 2017 10:24:16 GMT</pubDate>
         <item>
             <title><![CDATA[life thru the lens..]]></title>
             <description><![CDATA[<h1>life thru the lens..</h1>,<p>Using Molly to create a gallery of your photos for your grid site, can be very straightforward.. simply by uploading images..</p>,<p>Below there are 2 simple examples, in each post - theres only 2 posts - we uploaded 9+ images, one after the other. All were landscape images, with an added description..</p>,<p>In the first gallery, Molly has arranged the images into a carousel with an information button to the right..</p>,<p>In the second gallery, Molly has resized and cropped the images and presented them in a more ‘grid’ like fashion.. hover over the images and you’ll see the description of the image.. if you redesign the page Molly will come up with further gallery designs.. When v3 comes, and we can lockdown the sections, you’ll find it easy to cycle through the various options..</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/65029b3a-00f3-47da-a5a4-0d3c73b7be5c.jpg">]]></description>
@@ -27,6 +27,13 @@
             <link>https://the-grid.github.io/ed-userhtml/?g=eJxNkVFrgzAUhd_9FcFBq9AmbWndOrUPwhh92dPexhhpcmNjNZEkymTsvy-2FvaWm_tx7j3nZlz2SPI8FKel0dqFh4z4r0OQWWZk6w6R6BRzUquIL5BdeDZGPwFCPTWo8rWoLMoRxyW4lxoaUM4Wwzst32gDkY0_Vp-pp6VA0X-mGI488lIxMuA6o0ZmEmIGqIOJ8wqpb2DJfU_yG4atYb4MCWFaKWAOC8rgpPUFK3AE1NdrQSy_4Mo-fItTU-frWQ_GehN5v8H7GW3bI8_3q02y3m23yS55SpJ1OIp7N7ilxk9-0xywVBaMK0BoA9HkNk6D34hr1o37LdD8ltPcv-5bLCvrp8_jOM3IlGKQjTmzmlp7jZrp5hpViDh1dHk2IPLw7FxrnwlxZyiN5JhK0gwlrWswwwSqrmm1dV7k8X6pP-Jdk3c</link>
             <guid isPermaLink="false">1f3e1b38-121f-4777-8ad8-3755b617968f</guid>
             <pubDate>Tue, 18 Jul 2017 09:42:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[a party]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/024ec0bc-559e-4d8d-b177-c2a541c1a2ee.jpg" title="a party">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa9c7588-4e68-48fc-9571-8a7bb16c7f3f.jpg" title="a sign">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1015f47c-c605-42f7-91c4-c9c11b9dbbd5.jpg" title="a thing">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6001fa98-a914-48de-bea3-c5b0ffcf96d9.jpg" title="a room">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d66dec69-603f-47f5-82d6-26e0a8f6da55.jpg" title="a corner">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf45f2df-2301-4348-987b-8fed055f2931.jpg" title="a man">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/306486ae-96e5-4efe-b1e1-e3072c9fb3ea.jpg" title="a spaceman">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/437be87c-bbb8-4c3e-9a23-313e4554b48a.jpg" title="&apos;a&apos; artist">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/628b4aef-3f2f-4fcd-aa63-b677adf7f583.jpg" title="a drink">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac30629f-829f-4331-89ed-81e7121c650e.jpg" title="a bulb">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a063f860-95fc-45f4-a5aa-9a0bab1240a1.jpg" title="a nother bulb">]]></description>
+            <link>http://gallery.abc-xyz.us/a-party/index.html</link>
+            <guid isPermaLink="false">6527d5ba-d17a-42ab-9041-8b6335f5ac48</guid>
+            <pubDate>Wed, 25 Oct 2017 10:24:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>

@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: ok everything apart from the 2nd is a carousel..
-dateModified: '2017-10-25T10:23:35.898Z'
-datePublished: '2017-10-25T10:23:36.184Z'
+dateModified: '2017-10-25T10:23:40.813Z'
+datePublished: '2017-10-25T10:23:40.933Z'
 title: ''
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-10-25-ok-everything-apart-from-the-2nd-is-a-carousel.md
 starred: false
 datePublishedOriginal: '2017-10-25T10:23:18.232Z'
-sourcePath: _posts/2017-10-25-ok-everything-apart-from-the-2nd-is-a-carousel.md
 _type: Blurb
 
 ---

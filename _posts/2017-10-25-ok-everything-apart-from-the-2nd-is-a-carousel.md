@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ok everything apart from the 2nd is a carousel..
-dateModified: '2017-10-26T08:31:43.554Z'
-datePublished: '2017-10-26T08:31:43.885Z'
+dateModified: '2017-10-26T08:34:49.738Z'
+datePublished: '2017-10-26T08:34:50.538Z'
 title: ''
 author: []
 publisher: {}
@@ -24,3 +24,15 @@ Simple ansa it worked.. unpublishing the one gallery that wasn't a carousel left
 I re published the non-carousel gallery for people to see..
 
 Changed the last gallery to just on it's own page. With the carousel posts, by default Molly sets them to Homepage and Ownpage.. on ownpage it looks like she just lays them out in squares.. perfectly cropped using AI to focus on the main subject.. but loses the carousel..
+
+Also loses the full screen aspect.. to have multiple separate galleries on their own page, it would be necessary to use multiple grid sites.. which sometimes isn't a bad thing if it is your main site.
+
+Custom domain.. then use subdomains...
+
+eg www.gallery.com as the main grid site
+
+landscapes.gallery.com as a second grid site
+
+faces.gallery.com as a 3rd grid site
+
+link them all via either nav or CTAs...

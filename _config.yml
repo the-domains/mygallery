@@ -58,5 +58,5 @@ content:
 description: a fake portfolio of work..
 purpose:
   - type: external
-    url: 'https://abc-xyz.us'
-    label: abc.. to xyz
+    url: 'http://thegrid.ai/abcxyz'
+    label: abc.. xyz

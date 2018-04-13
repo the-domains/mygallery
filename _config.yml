@@ -15,7 +15,7 @@ layout_spectrum: 0.9418318385752563
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c8e5952-b3e1-47f2-a620-27b94647bf9a.png
 name: gallery
-url: 'https://gallery.abc-xyz.us/'
+url: 'http://thegrid.ai/galleryabc'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
